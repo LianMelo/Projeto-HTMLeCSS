@@ -3,10 +3,9 @@
 
 @font-face {
     font-family: 'android';
-    src: url(IDroid.otf);
-    
-    
+    src: url('IDroid Bold.otf');
 }
+
 * {
     padding: 0px;
     margin: 0px;
