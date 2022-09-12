@@ -90,7 +90,6 @@ nav >a {
 main h1 {
     font-size: 1.5em;
     font-family: 'android';
-    background-image: linear-gradient(to right,black,transparent);
     color: #94d11a;
     padding-top: -8px;
     margin-left: -10px;
